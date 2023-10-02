@@ -26,6 +26,13 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/349712342de64c96aa3a65a0891bfbdd">
+    </a>
+    <a href="https://www.loom.com/share/349712342de64c96aa3a65a0891bfbdd">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/349712342de64c96aa3a65a0891bfbdd-with-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
